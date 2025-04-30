@@ -1,0 +1,7 @@
+1) install python 3.7.0
+2) open command prompt and then copy all commands from 'requirements.txt' file and paste in command prompt to install all packages
+3) double click on 'installNLTK.bat' file to install nltk software and then window will appear just click on 'Download' button to install all packages and once
+all packages installed then window will turn to green colour and then can close window
+4)install mysql database and then give password as root and then copy tables from 'DB.txt' file and paste in MYSQL console to create database 
+5) double click on run.bat to start python web server and then open browser and enter url as http://127.0.0.1:8000/index.html and then press enter key to get
+home page and then follow screen shots to run code
